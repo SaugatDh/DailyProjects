@@ -36,4 +36,4 @@ Feel free to reach out via:
 - [LinkedIn](https://www.linkedin.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaugatDh&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaugaDh)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaugatDh)
