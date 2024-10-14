@@ -16,8 +16,8 @@ I'm a web development enthusiast currently exploring various technologies includ
 ## 📅 Daily Practices
 | Date       | Description                               | Link         |
 |------------|-------------------------------------------|--------------|
-| 2024-10-01 | Built a simple calculator using JavaScript | [View Code](https://github.com/yourusername/calculator) |
-| 2024-10-02 | Styled a webpage using CSS Grid           | [View Code](https://github.com/yourusername/css-grid-project) |
+| 2024-10-01 | Built a simple calculator using JavaScript | [View Code](https://github.com/SaugatDh/) |
+| 2024-10-02 | Styled a webpage using CSS Grid           | [View Code](https://github.com/SaugatDh/) |
 
 ## ⚙️ Technologies I am learning and practicing actively.
 - HTML
@@ -35,5 +35,5 @@ Feel free to reach out via:
 - [Twitter](https://twitter.com/)
 - [LinkedIn](https://www.linkedin.com/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaugatDh&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaugaDh)
